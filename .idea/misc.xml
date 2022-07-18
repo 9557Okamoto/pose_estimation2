@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidProgram/posenet/lite/examples/pose_estimation/android/app/src/main/res/layout/activity_main.xml" value="0.1984375" />
+        <entry key="..\:/AndroidProgram/posenet/lite/examples/pose_estimation/android/app/src/main/res/layout/bottom_sheet_layout.xml" value="0.1984375" />
+        <entry key="..\:/Users/Shoya/Documents/git/movenet3/pose_estimation/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Shoya/Documents/git/movenet4/pose_estimation/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
